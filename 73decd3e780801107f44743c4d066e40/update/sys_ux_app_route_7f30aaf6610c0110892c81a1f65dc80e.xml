@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Peer Review Config">7730aaf6cf0c0110a1df0d5d2a27570e</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">3f30aaf64e0c0110b492ed7bbdf1c70e</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-29 20:26:30</sys_created_on>
+        <sys_id>7f30aaf6610c0110892c81a1f65dc80e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Peer Review" source="x_snc_peer_review">73decd3e780801107f44743c4d066e40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">73decd3e780801107f44743c4d066e40</sys_scope>
+        <sys_update_name>sys_ux_app_route_7f30aaf6610c0110892c81a1f65dc80e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-29 20:26:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f30aaf6610c0110892c81a1f65dc80e"/>
+</record_update>
